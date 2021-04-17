@@ -1,0 +1,21 @@
+{
+  "name": "哔哩哔哩",
+  "description": "哔哩哔哩 KaiOS 版",
+  "launch_path": "/index.html",
+  "type": "web",
+  "origin": "app://kai.baiyang.bilibili",
+  "icons": {
+    "56": "/img/icons/icon56x56.png"
+  },
+  "developer": {
+    "name": "白羊座的一只狼",
+    "url": "http://tonylang.cn/"
+  },
+  "permissions": {
+    "attention": {},
+    "browser": {},
+    "mobilenetwork": {}
+  },
+  "ime_default_softkey_bar": true,
+  "theme_color": "#00a1d6"
+}
